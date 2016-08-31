@@ -16,6 +16,9 @@ You have several opportunities to review your changes and group your files.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+1) If I was trying an experimental version, I wouldn't want it to be on the same branch as what everyone else sees
+2) Branches let me work on it on the side and it won't interfere with what everyone else sees
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
