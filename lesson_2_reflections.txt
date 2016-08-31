@@ -9,8 +9,9 @@ What value do you think it offers?
 1) It's the wood between the worlds!!!
 2) It helps if you want to group certain things together in a commit.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+You have several opportunities to review your changes and group your files.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
