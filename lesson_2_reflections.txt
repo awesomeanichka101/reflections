@@ -1,25 +1,27 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-1) I create a special place for behind-the-scenes stuff
-2) So users won't see what goes on in whatever I'm working on
+  1) I create a special place for behind-the-scenes stuff
+  2) So users won't see what goes on in whatever I'm working on
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-1) It's the wood between the worlds!!!
-2) It helps if you want to group certain things together in a commit.
+  1) It's the wood between the worlds!!!
+  2) It helps if you want to group certain things together in a commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-You have several opportunities to review your changes and group your files.
+  You have several opportunities to review your changes and group your files.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-1) If I was trying an experimental version, I wouldn't want it to be on the same branch as what everyone else sees
-2) Branches let me work on it on the side and it won't interfere with what everyone else sees
+  1) If I was trying an experimental version, I wouldn't want it to be on the same branch as what everyone else sees
+  2) Branches let me work on it on the side and it won't interfere with what everyone else sees
 
 How do the diagrams help you visualize the branch structure?
+
+  It makes it much easier to picture. Plus, the "detached HEAD" message makes more sense now.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
