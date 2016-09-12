@@ -26,5 +26,8 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+  (1) the result is that the components of both branches are now together and on master for the player to see
+  (2) to try to picture it better, but it was a little pointless because it only seemed more complicated 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
