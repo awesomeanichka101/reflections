@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
   When you have collaberators working on your project on GitHub and you don't want them all using your computer.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  So you can control what the public sees (MyFarms dev, pre, and prod are perfect examples)
