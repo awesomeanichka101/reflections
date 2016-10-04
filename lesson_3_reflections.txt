@@ -4,11 +4,15 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-  So you can control what the public sees (MyFarms dev, pre, and prod are perfect examples)
+  So you can control what the public sees (MyFarms demo, dev, pre, and prod are perfect examples)
 
-  Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-   (1a)Forking is cloning from one GitHub repository to another on GitHub. 
-   (1b)Clones is cloning from one local repositor to another on local or on GitHub. You can also clone from GitHub to local. 
-   (1c)Branches are separate parts of one repository.
-   (2) I kind of already explained that in the first answer and its parts
+  (1a) Forking is cloning from one GitHub repository to another on GitHub. 
+  (1b) Clones is cloning from one local repositor to another on local or on GitHub. You can also clone from GitHub to local. 
+  (1c) Branches are separate parts of one repository.
+  (2) I kind of already explained that in the first answer and its parts.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+   To make merging possible without ruining something.
